@@ -1,1 +1,3 @@
-i fucking love godot so much best game engine EVER!!!!!!
+Godot best game engine
+
+i basically only know GDscript and python
