@@ -1,3 +1,1 @@
-Godot best game engine
-
-i basically only know GDscript and python
+any other game engine < DOOM engine
