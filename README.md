@@ -1,8 +1,9 @@
-# I 🫀 QUAKE
+# I 🫀 QUAKE :3
 
 ## About Me
 
 - 🌐 Discord: 44ang3ls#9387
+:3
 
 ## Skills / Favorite languages
 
