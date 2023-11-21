@@ -3,11 +3,11 @@
 ## About Me
 
 - 🌐 Discord: 44ang3ls#9387
-:3
 
 ## Skills / Favorite languages
 
 - C++
+- GDScript (I don't really use Godot anymore though)
 - React (Even though I hate almost all of web development)
 - A tad bit of Java
 
