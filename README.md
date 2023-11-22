@@ -2,7 +2,8 @@
 
 ## About Me
 
-- 🌐 Discord: 44ang3ls#9387
+- C++ fanatic
+- 🫀 OOP!
 
 ## Skills / Favorite languages
 
