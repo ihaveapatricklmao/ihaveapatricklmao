@@ -14,7 +14,9 @@
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihaveapatricklmao&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihaveapatricklmao&theme=radical)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihaveapatricklmao&cache=false" alt="ihaveapatricklmao" /></a> </p>
 
 ## Top Languages
 
