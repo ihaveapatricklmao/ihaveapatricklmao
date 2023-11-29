@@ -9,8 +9,8 @@
 
 - C++ / C
 - GDScript (I don't really use Godot anymore though)
-- React (Even though I hate almost all of web development)
-- A tad bit of Java
+- React / Web (Though I dislike raw HTML and CSS)
+- Just a tad bit of Java
 
 ## GitHub Stats
 
