@@ -12,9 +12,7 @@
 - React / Web (Though I dislike raw HTML and CSS)
 - Just a tad bit of Java
 
-![C](c.png)
-![C](cpp.png)
-![C](holyc.webp)
+![C, C++, and HolyC](clogos.png)
 
 ## GitHub Stats
 
