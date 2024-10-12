@@ -12,6 +12,9 @@
 - React / Web (Though I dislike raw HTML and CSS)
 - Just a tad bit of Java
 
+![My Image](https://example.com/path/to/your/image.png](https://assets.hongkiat.com/uploads/android-app-dev-languages/cpp.png
+)
+
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihaveapatricklmao&theme=radical)
